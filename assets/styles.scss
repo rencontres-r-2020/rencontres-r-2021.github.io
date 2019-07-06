@@ -1,0 +1,28 @@
+---
+title: false
+styles: true
+---
+
+@import "alembic";
+
+
+:root {
+  --rose: #ce3e6a;
+  --bleu: #92c6eb;
+  --jaune: #f7f4d3;
+}
+
+
+.feature h2, .feature p{
+    color: white;
+    background-color: var(--bleu, black);
+    padding: 0.5em;
+}
+
+.feature h2 {
+  font-size: 2em;
+}
+
+footer li.item.item--nav {
+    display: block;
+}
