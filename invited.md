@@ -2,7 +2,7 @@
 title:
 feature_text: |
    ##  Orateurs
-   conférences et tutoriels 
+   Conférences et tutoriels 
 feature_image: "/assets/img/toit_agro.png"
 excerpt: "Orateurs"
 ---
