@@ -82,7 +82,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: fr-FR # Set the site language
 title: "Rencontres R 2020" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/hex_rr2020.png" # Site logo, also used in jekyll-seo-tag
-description: "8ème éditions de Rencontres R - Juillet 2020 à AgroParisTech" # Site description and default description, also used in jekyll-seo-tag
+description: "8ème éditions de Rencontres R - du 15 au 17 Juillet 2020 à AgroParisTech" # Site description and default description, also used in jekyll-seo-tag
 url: "paris2020.rencontres-r.fr" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/rencontres-r-2020/rencontres-r-2020.github.io"

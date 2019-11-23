@@ -1,6 +1,9 @@
 ---
-title: Comités
+title: 
+feature_text: |
+  ## Comités
 excerpt: "Comités"
+feature_image: "/assets/img/toit_agro.png"
 ---
 
 ### Organisation

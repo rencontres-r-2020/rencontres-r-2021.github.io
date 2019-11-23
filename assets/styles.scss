@@ -19,7 +19,7 @@ styles: true
 
 .feature h2, .feature p{
     color: white;
-    background-color: var(--bleu, black);
+    text-shadow:-1px -1px 1px black, 1px -1px 1px black, -1px 1px 1px black, 1px 1px 1px black, -1px -1px 1px black, 1px -1px 1px black, -1px 1px 1px black, 1px 1px 1px black;
     padding: 0.5em;
 }
 

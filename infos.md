@@ -1,9 +1,10 @@
 ---
-title: Informations pratiques
+title: 
 feature_text: |
-   ## Dates, Lieu, Venue 
-feature_image: "/assets/img/toit_agro.png"
+  ## Informations pratiques
 excerpt: "info"
+feature_image: "/assets/img/toit_agro.png"
+aside: true
 ---
 
 ### Dates

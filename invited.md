@@ -1,6 +1,9 @@
 ---
-title: Orateurs Confirmés
+title: 
+feature_text: |
+  ## Orateurs Confirmés
 excerpt: "Orateurs"
+feature_image: "/assets/img/toit_agro.png"
 ---
 
   <div class="row">
