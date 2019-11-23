@@ -1,0 +1,36 @@
+.committee {
+    margin-top: 15px;
+}
+.committee .committee-photo {
+    width: 90%;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+.committee .committee-photo img {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 100%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+.committee .committee-name {
+    text-align: center;
+    padding-top: 10px;
+    font-size: .75em;
+}
+.committee .committee-affiliation {
+    text-align: center;
+    padding-top: 0px;
+    font-size: .75em;
+}
+.committee .committee-position {
+    text-align: center;
+    font-size: 0.85em;
+}

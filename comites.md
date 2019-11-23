@@ -4,77 +4,267 @@ excerpt: "Comités"
 feature_image: "/assets/img/toit_agro.png"
 ---
 
-### Organisation
+### Comité de Programme
 
-  - Julie Aubert (INRA, AgroParisTech)
-  - Pierre Barbillon (AgroParisTech)
-  - Magali Berléand (INRA, Jouy-en-Josas)
-  - Antoine Bichat (Enterome, Université d'Évry)
-  - Julien Chiquet (Président, INRA, AgroParisTech)
-  - Sophie Donnet (INRA, AgroParisTech)
-  - Marie-Pierre Étienne (AgroCampus Ouest)
-  - Mahendra Mariadassou (INRA Jouy-en-Josas)
-  - Tristan Mary Huard (INRA, AgroParisTech)
-  - Laure Sansonnet (AgroParisTech)
-  - Jessica Tressou (INRA, AgroParisTech)
+  <div class="row">
+   <div class="col-3">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/cfay.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Colin Fay</a>
+          <a href="https://twitter.com/_ColinFay"><i class="fa fa-twitter" aria-hidden="true"></i>{% include icon.html id="twitter" %}</a>
+          <a href="https://github.com/ColinFay"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
+        </div>
+        <div class="committee-affiliation">
+        ThinkR
+        </div>       
+      </div>
+   </div>
+
+   </div>
+
+  <div class="row">
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/woman.png" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Marie Chavant</a>
+        </div>
+        <div class="committee-affiliation">
+        Université de Bordeaux
+        </div>
+      </div>
+    </div>
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/cdervieux.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Christophe Dervieux</a>
+        </div>
+        <div class="committee-affiliation">
+        RTE
+        </div>
+      </div>
+    </div>
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/sdonnet.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Sophie Donnet</a>
+        </div>
+        <div class="committee-affiliation">
+        INRAE, AgroParisTech 
+        </div>
+      </div>
+    </div>
 
 
-### Programme
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/rlesur.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Romain Lesur</a>
+        </div>
+        <div class="committee-affiliation">
+        INSEE
+        </div>
+      </div>
+    </div>
 
-  - Marie Chavant (Université de Bordeaux)
-  - Christophe Dervieux (RTE)
-  - Sophie Donnet (INRA, AgroParisTech)
-  - Colin Fay (Président, ThinkR)
-  - Romain Lesur (INSEE)
-  - Nathalie Vialaneix (INRA, Toulouse)
-  
-<!--
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/nvialaneix.png" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Nathalie Vialaneix</a>
+        </div>
+        <div class="committee-affiliation">
+        INRAE, Toulouse
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+### Comité d'organisation
+
   <div class="row">
 
     <div class="col-3">
-      <div class="speaker">
-        <div class="speaker-photo">
-          <a href="https://www.ncl.ac.uk/maths-physics/staff/profile/colingillespie.html#background"><img src="../assets/img/speakers/cgillespie.jpeg"></a>
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/jchiquet.jpg" /></a>
         </div>
-        <div class="speaker-name">
-          <a href="https://www.ncl.ac.uk/maths-physics/staff/profile/colingillespie.html#background">Colin Gillespie</a>
+        <div class="committee-name">
+          <a href="#">Julien Chiquet</a>
+          <a href="https://github.com/jchiquet"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
         </div>
-        <div class="speaker-position">
-        Université de Newcastle 
-        </div>
-      </div>
-    </div>
-
-    <div class="col-3">
-
-      <div class="speaker">
-        <div class="speaker-photo">
-          <a href="https://itsalocke.com/company/steph/"><img src="../assets/img/speakers/slocke.jpeg" /></a>
-        </div>
-        <div class="speaker-name">
-          <a href="https://itsalocke.com/company/steph/">Steph Locke</a>
-        </div>
-        <div class="speaker-position">
-          Locke Data
+        <div class="committee-affiliation">
+        INRAE, AgroParisTech
         </div>
       </div>
     </div>
 
-    <div class="col-3">
+   </div>
+   
+  <div class="row">
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/woman.png" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Julie Aubert</a>
+        </div>
+        <div class="committee-affiliation">
+        INRAE, AgroParisTech 
+        </div>
+      </div>
+    </div>
 
-      <div class="speaker">
-        <div class="speaker-photo">
-          <a href="https://masalmon.eu/"><img src="../assets/img/speakers/msalmon.jpg" /></a>
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/woman.png" /></a>
         </div>
-        <div class="speaker-name">
-          <a href="https://masalmon.eu/">Maëlle Salmon</a>
+        <div class="committee-name">
+          <a href="#">Magali Berléand</a>
         </div>
-        <div class="speaker-position">
-          rOpenSci
+        <div class="committee-affiliation">
+        INRAE, Jouy-en-Josas 
+        </div>
+      </div>
+    </div>
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/pbarbillon.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Pierre Barbillon</a>
+        </div>
+        <div class="committee-affiliation">
+        AgroParisTech 
+        </div>
+      </div>
+    </div>
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/abichat.png" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Antoine Bichat</a>
+        </div>
+        <div class="committee-affiliation">
+        Enterome, Université d'Évry
+        </div>
+      </div>
+    </div>
+
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/sdonnet.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Sophie Donnet</a>
+        </div>
+        <div class="committee-affiliation">
+        INRAE, AgroParisTech 
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div class="row">
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/mpetienne.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Marie-Pierre Étienne</a>
+        </div>
+        <div class="committee-affiliation">
+        AgroCampus Ouest 
+        </div>
+      </div>
+    </div>
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/mmariadassou.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Mahendra Mariadassou</a>
+        </div>
+        <div class="committee-affiliation">
+        INRAE, Jouy-en-Josas
+        </div>
+      </div>
+    </div>
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/man.svg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Tristan Mary-Huard</a>
+        </div>
+        <div class="committee-affiliation">
+        INRAE, AgroParisTech 
+        </div>
+      </div>
+    </div>
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/lsansonnet.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Laure Sansonnet</a>
+        </div>
+        <div class="committee-affiliation">
+        AgroParisTech 
+        </div>
+      </div>
+    </div>
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/jtressou.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Jessica Tressou</a>
+        </div>
+        <div class="committee-affiliation">
+        INRAE, AgroParisTech 
         </div>
       </div>
     </div>
 
 </div>
 
--->
