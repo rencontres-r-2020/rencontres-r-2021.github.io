@@ -1,8 +1,7 @@
 ---
-title:
+title: 
 feature_text: |
-   ##  Orateurs
-   conférences et tutoriels 
+   ##  Orateurs confirmés
 feature_image: "/assets/img/toit_agro.png"
 excerpt: "Orateurs"
 ---

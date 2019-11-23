@@ -65,7 +65,8 @@ collections:
     output: true
     description: "" # The post list page content
     feature_text: |
-      ## Blog des Rencontres R 2020
+      ## Rencontres R 2020
+      AgroParisTech - 15 au 17 Juillet 2020
     feature_image: "/assets/img/toit_agro.png"
 
 # 6. Jekyll collections settings
@@ -94,7 +95,11 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Orateurs invités
+- title: News
+  url: /blog/
+- title: Info pratiques
+  url: /infos/
+- title: Orateurs
   url: /invited/
 - title: Programme
   url: /programme/
@@ -102,12 +107,8 @@ navigation_header:
   url: /comites/
 - title: Partenaires
   url: /sponsors/
-- title: Blog
-  url: /blog/
 - title: Soumission
   url: /soumettre/
-- title: Rechercher
-  url: /search/
   
 navigation_footer:
 - title: Template site web basé sur Alembic

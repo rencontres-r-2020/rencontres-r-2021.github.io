@@ -1,5 +1,5 @@
 ---
-title: Programme
+title: Plénières, tutoriels, contributions
 feature_text: |
   ## Programme des Rencontres R 2020
 feature_image: "/assets/img/toit_agro.png"
