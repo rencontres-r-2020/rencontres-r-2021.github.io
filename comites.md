@@ -12,7 +12,7 @@ excerpt: "Comités"
   - Julie Aubert (INRA, AgroParisTech)
   - Pierre Barbillon (AgroParisTech)
   - Magali Berléand (INRA, Jouy-en-Josas)
-  - Antoine Bichat (Biomerieux)
+  - Antoine Bichat (Entérome)
   - Julien Chiquet (Président, INRA, AgroParisTech)
   - Sophie Donnet (INRA, AgroParisTech)
   - Marie-Pierre Étienne (AgroCampus Ouest)
