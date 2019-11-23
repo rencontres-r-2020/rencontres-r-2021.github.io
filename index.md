@@ -17,3 +17,4 @@ bayésienne, calcul haute performance et distribués, applications web,
 etc.) et dans différentes communautés (académique, entreprise,
 formation).
 
+{% include map.html id="1h-s6Upfh9luK3cKta2UKw23ULATWGknp" %}

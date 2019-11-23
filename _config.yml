@@ -85,11 +85,7 @@ description: "8ème éditions de Rencontres R - Juillet 2020 à AgroParisTech" #
 url: "paris2020.rencontres-r.fr" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/rencontres-r-2020/rencontres-r-2020.github.io"
-email: "contact@colinfay.me"
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-# google_analytics: ''
-# google_analytics_anonymize_ip: ''
-# service_worker: false # Will turn off the service worker if set to false
+email: "rr2020@agroparistech.fr"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
@@ -98,13 +94,17 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
+- title: Orateurs invités
+  url: /invited/
 - title: Programme
   url: /programme/
+- title: Comités
+  url: /comites/
+- title: Partenaires
+  url: /sponsors/
 - title: Blog
   url: /blog/
-- title: Soumettre un talk
+- title: Soumission
   url: /soumettre/
 - title: Rechercher
   url: /search/
