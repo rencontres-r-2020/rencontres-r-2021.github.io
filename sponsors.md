@@ -1,7 +1,5 @@
 ---
-title: 
-feature_text: |
-  ## Partenaires et sponsors
+title: Partenaires et sponsors 
 feature_image: "/assets/img/toit_agro.png"
 excerpt: "Partenaires"
 ---

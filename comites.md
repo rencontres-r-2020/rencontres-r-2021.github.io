@@ -1,13 +1,10 @@
 ---
-title: 
-feature_text: |
-  ## Comités
+title: Comités 
 excerpt: "Comités"
 feature_image: "/assets/img/toit_agro.png"
 ---
 
 ### Organisation
-
 
   - Julie Aubert (INRA, AgroParisTech)
   - Pierre Barbillon (AgroParisTech)

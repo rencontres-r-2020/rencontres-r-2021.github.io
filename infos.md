@@ -1,7 +1,5 @@
 ---
-title: 
-feature_text: |
-  ## Informations pratiques
+title: Informations pratiques 
 excerpt: "info"
 feature_image: "/assets/img/toit_agro.png"
 aside: true
