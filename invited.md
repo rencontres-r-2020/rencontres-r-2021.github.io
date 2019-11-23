@@ -1,8 +1,5 @@
 ---
-title: 
-feature_text: |
-   ##  Orateurs confirmés
-feature_image: "/assets/img/toit_agro.png"
+title: Orateurs Confirmés
 excerpt: "Orateurs"
 ---
 
