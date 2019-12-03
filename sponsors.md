@@ -5,5 +5,6 @@ excerpt: "Partenaires"
 ---
 
 ![AgroParisTech](../assets/logos/logo_agro.png)
+![SfDS](../assets/logos/logo_sfds.png)
 
 

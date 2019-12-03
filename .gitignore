@@ -1,9 +1,6 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
 .DS_Store
-
 _site/
 .sass-cache/
 Gemfile.lock
+.Rhistory
+.Rproj.user
