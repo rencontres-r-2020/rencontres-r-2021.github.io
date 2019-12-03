@@ -111,10 +111,12 @@ navigation_header:
   url: /soumettre/
   
 navigation_footer:
+- title: Les toits d'AgroParisTech &mdash; projet de recherche T4P
+  url: http://www2.agroparistech.fr/T4P-un-Projet-de-recherche-innovant-pour-des-Toits-Parisiens-Productifs.html
+- title: Photo par Hugo Noulin, collection 'En Vue'
+  url: https://envues.universite-paris-saclay.fr/
 - title: Template site web basé sur Alembic
   url: https://github.com/daviddarnes/alembic
-- title: Photo couverture par Hugo Noulin, collection 'En Vue'
-  url: https://envues.universite-paris-saclay.fr/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/rencontres_r
