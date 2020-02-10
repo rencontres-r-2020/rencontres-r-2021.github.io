@@ -12,12 +12,15 @@ excerpt: "Partenaires"
 ### Sponsors Or
 
 ![LMH](../assets/logos/logo_lmh.png)
+![DATAIA](../assets/logos/logo_dataia.png)
 ![INSEE](../assets/logos/logo_insee.png)
+![dreamRs](../assets/logos/logo_dreamRs.png)
 
 ### Sponsors Argent
 
 ![AMIES](../assets/logos/logo-amies.jpg)
 ![Stat4Decision](../assets/logos/stat4decision.png)
+![datastorm](../assets/logos/logo_datastorm.png)
 
 ### Sponsors Bronze
 
