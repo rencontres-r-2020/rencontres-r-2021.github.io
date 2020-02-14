@@ -1,5 +1,5 @@
 ---
-title: Comités 
+title: Comités
 excerpt: "Comités"
 feature_image: "/assets/img/toit_agro.png"
 ---
@@ -24,7 +24,7 @@ feature_image: "/assets/img/toit_agro.png"
     </div>
 
    </div>
-   
+
   <div class="row">
     <div class="col-25">
       <div class="committee">
@@ -36,7 +36,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="https://github.com/julieaubert"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
         </div>
         <div class="committee-affiliation">
-        INRAE, AgroParisTech 
+        INRAE, AgroParisTech
         </div>
       </div>
     </div>
@@ -47,10 +47,10 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#"><img src="../assets/img/committee/woman.png" /></a>
         </div>
         <div class="committee-name">
-          <a href="#">Magali Berléand</a>
+          <a href="#">Magali Berland</a>
         </div>
         <div class="committee-affiliation">
-        INRAE, Jouy-en-Josas 
+        INRAE, Jouy-en-Josas
         </div>
       </div>
     </div>
@@ -64,7 +64,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#">Pierre Barbillon</a>
         </div>
         <div class="committee-affiliation">
-        AgroParisTech 
+        AgroParisTech
         </div>
       </div>
     </div>
@@ -93,7 +93,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#">Sophie Donnet</a>
         </div>
         <div class="committee-affiliation">
-        INRAE, AgroParisTech 
+        INRAE, AgroParisTech
         </div>
       </div>
     </div>
@@ -110,7 +110,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#">Marie-Pierre Étienne</a>
         </div>
         <div class="committee-affiliation">
-        AgroCampus Ouest 
+        AgroCampus Ouest
         </div>
       </div>
     </div>
@@ -138,7 +138,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#">Tristan Mary-Huard</a>
         </div>
         <div class="committee-affiliation">
-        INRAE, AgroParisTech 
+        INRAE, AgroParisTech
         </div>
       </div>
     </div>
@@ -152,7 +152,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#">Laure Sansonnet</a>
         </div>
         <div class="committee-affiliation">
-        AgroParisTech 
+        AgroParisTech
         </div>
       </div>
     </div>
@@ -166,7 +166,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#">Jessica Tressou</a>
         </div>
         <div class="committee-affiliation">
-        INRAE, AgroParisTech 
+        INRAE, AgroParisTech
         </div>
       </div>
     </div>
@@ -233,7 +233,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#">Sophie Donnet</a>
         </div>
         <div class="committee-affiliation">
-        INRAE, AgroParisTech 
+        INRAE, AgroParisTech
         </div>
       </div>
     </div>
@@ -268,5 +268,3 @@ feature_image: "/assets/img/toit_agro.png"
     </div>
 
   </div>
-
-
