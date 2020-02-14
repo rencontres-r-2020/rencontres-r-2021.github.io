@@ -4,102 +4,6 @@ excerpt: "Comités"
 feature_image: "/assets/img/toit_agro.png"
 ---
 
-### Comité de Programme
-
-  <div class="row">
-   <div class="col-3">
-      <div class="committee">
-        <div class="committee-photo">
-          <a href="#"><img src="../assets/img/committee/cfay.jpg" /></a>
-        </div>
-        <div class="committee-name">
-          <a href="#">Colin Fay</a>
-          <a href="https://twitter.com/_ColinFay"><i class="fa fa-twitter" aria-hidden="true"></i>{% include icon.html id="twitter" %}</a>
-          <a href="https://github.com/ColinFay"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
-        </div>
-        <div class="committee-affiliation">
-        ThinkR
-        </div>       
-      </div>
-   </div>
-
-   </div>
-
-  <div class="row">
-
-    <div class="col-25">
-      <div class="committee">
-        <div class="committee-photo">
-          <a href="#"><img src="../assets/img/committee/woman.png" /></a>
-        </div>
-        <div class="committee-name">
-          <a href="#">Marie Chavant</a>
-        </div>
-        <div class="committee-affiliation">
-        Université de Bordeaux
-        </div>
-      </div>
-    </div>
-
-    <div class="col-25">
-      <div class="committee">
-        <div class="committee-photo">
-          <a href="#"><img src="../assets/img/committee/cdervieux.jpg" /></a>
-        </div>
-        <div class="committee-name">
-          <a href="#">Christophe Dervieux</a>
-        </div>
-        <div class="committee-affiliation">
-        RTE
-        </div>
-      </div>
-    </div>
-
-    <div class="col-25">
-      <div class="committee">
-        <div class="committee-photo">
-          <a href="#"><img src="../assets/img/committee/sdonnet.jpg" /></a>
-        </div>
-        <div class="committee-name">
-          <a href="#">Sophie Donnet</a>
-        </div>
-        <div class="committee-affiliation">
-        INRAE, AgroParisTech 
-        </div>
-      </div>
-    </div>
-
-
-    <div class="col-25">
-      <div class="committee">
-        <div class="committee-photo">
-          <a href="#"><img src="../assets/img/committee/rlesur.jpg" /></a>
-        </div>
-        <div class="committee-name">
-          <a href="#">Romain Lesur</a>
-        </div>
-        <div class="committee-affiliation">
-        INSEE
-        </div>
-      </div>
-    </div>
-
-    <div class="col-25">
-      <div class="committee">
-        <div class="committee-photo">
-          <a href="#"><img src="../assets/img/committee/nvialaneix.png" /></a>
-        </div>
-        <div class="committee-name">
-          <a href="#">Nathalie Vialaneix</a>
-        </div>
-        <div class="committee-affiliation">
-        INRAE, Toulouse
-        </div>
-      </div>
-    </div>
-
-  </div>
-
 ### Comité d'organisation
 
   <div class="row">
@@ -125,10 +29,11 @@ feature_image: "/assets/img/toit_agro.png"
     <div class="col-25">
       <div class="committee">
         <div class="committee-photo">
-          <a href="#"><img src="../assets/img/committee/woman.png" /></a>
+          <a href="#"><img src="../assets/img/committee/jaubert.jpg" /></a>
         </div>
         <div class="committee-name">
           <a href="#">Julie Aubert</a>
+          <a href="https://github.com/julieaubert"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
         </div>
         <div class="committee-affiliation">
         INRAE, AgroParisTech 
@@ -267,4 +172,101 @@ feature_image: "/assets/img/toit_agro.png"
     </div>
 
 </div>
+
+### Comité de Programme
+
+  <div class="row">
+   <div class="col-3">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/cfay.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Colin Fay</a>
+          <a href="https://twitter.com/_ColinFay"><i class="fa fa-twitter" aria-hidden="true"></i>{% include icon.html id="twitter" %}</a>
+          <a href="https://github.com/ColinFay"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
+        </div>
+        <div class="committee-affiliation">
+        ThinkR
+        </div>       
+      </div>
+   </div>
+
+   </div>
+
+  <div class="row">
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/woman.png" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Marie Chavant</a>
+        </div>
+        <div class="committee-affiliation">
+        Université de Bordeaux
+        </div>
+      </div>
+    </div>
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/cdervieux.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Christophe Dervieux</a>
+        </div>
+        <div class="committee-affiliation">
+        RTE
+        </div>
+      </div>
+    </div>
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/sdonnet.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Sophie Donnet</a>
+        </div>
+        <div class="committee-affiliation">
+        INRAE, AgroParisTech 
+        </div>
+      </div>
+    </div>
+
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/rlesur.jpg" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Romain Lesur</a>
+        </div>
+        <div class="committee-affiliation">
+        INSEE
+        </div>
+      </div>
+    </div>
+
+    <div class="col-25">
+      <div class="committee">
+        <div class="committee-photo">
+          <a href="#"><img src="../assets/img/committee/nvialaneix.png" /></a>
+        </div>
+        <div class="committee-name">
+          <a href="#">Nathalie Vialaneix</a>
+        </div>
+        <div class="committee-affiliation">
+        INRAE, Toulouse
+        </div>
+      </div>
+    </div>
+
+  </div>
+
 
