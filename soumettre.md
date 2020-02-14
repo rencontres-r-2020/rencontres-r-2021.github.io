@@ -1,9 +1,7 @@
 ---
-title: Soumettre
-feature_text: |
-  ## Soumettre un talk
-feature_image: "/assets/img/toit_agro.png"
+title: Soumettre 
+feature_image: "/assets/img/soumettre.jpg"
 excerpt: "Programme des Rencontres R 2020"
 ---
 
-Bientôt...
+Bientôt !

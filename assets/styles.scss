@@ -5,6 +5,12 @@ styles: true
 
 @import "alembic";
 
+@import "speakers";
+
+@import "committee";
+
+@import "simple-grid";
+
 
 :root {
   --rose: #ce3e6a;
@@ -15,7 +21,7 @@ styles: true
 
 .feature h2, .feature p{
     color: white;
-    background-color: var(--bleu, black);
+    text-shadow:-1px -1px 1px black, 1px -1px 1px black, -1px 1px 1px black, 1px 1px 1px black, -1px -1px 1px black, 1px -1px 1px black, -1px 1px 1px black, 1px 1px 1px black;
     padding: 0.5em;
 }
 
@@ -26,3 +32,5 @@ styles: true
 footer li.item.item--nav {
     display: block;
 }
+
+

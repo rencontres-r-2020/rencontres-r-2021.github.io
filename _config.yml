@@ -65,7 +65,8 @@ collections:
     output: true
     description: "" # The post list page content
     feature_text: |
-      ## Blog des Rencontres R 2020
+      ## Rencontres R 2020
+      AgroParisTech - 15 au 17 Juillet 2020
     feature_image: "/assets/img/toit_agro.png"
 
 # 6. Jekyll collections settings
@@ -81,15 +82,11 @@ encoding: utf-8 # Make sure the encoding is right
 lang: fr-FR # Set the site language
 title: "Rencontres R 2020" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/hex_rr2020.png" # Site logo, also used in jekyll-seo-tag
-description: "8ème éditions de Rencontres R - Juillet 2020 à AgroParisTech" # Site description and default description, also used in jekyll-seo-tag
+description: "8ème éditions de Rencontres R - du 15 au 17 Juillet 2020 à AgroParisTech" # Site description and default description, also used in jekyll-seo-tag
 url: "paris2020.rencontres-r.fr" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/rencontres-r-2020/rencontres-r-2020.github.io"
-email: "contact@colinfay.me"
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-# google_analytics: ''
-# google_analytics_anonymize_ip: ''
-# service_worker: false # Will turn off the service worker if set to false
+email: "rr2020@agroparistech.fr"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
@@ -98,22 +95,28 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
+- title: News
+  url: /blog/
+- title: Info pratiques
+  url: /infos/
+- title: Orateurs
+  url: /invited/
 - title: Programme
   url: /programme/
-- title: Blog
-  url: /blog/
-- title: Soumettre un talk
+- title: Comités
+  url: /comites/
+- title: Partenaires
+  url: /sponsors/
+- title: Soumission
   url: /soumettre/
-- title: Rechercher
-  url: /search/
   
 navigation_footer:
+- title: Toit potager d'AgroParisTech &mdash; projet T4P
+  url: http://www2.agroparistech.fr/T4P-un-Projet-de-recherche-innovant-pour-des-Toits-Parisiens-Productifs.html
+- title: Photo par Hugo Noulin, collection 'En Vue'
+  url: https://envues.universite-paris-saclay.fr/
 - title: Template site web basé sur Alembic
   url: https://github.com/daviddarnes/alembic
-- title: Photo couverture par Hugo Noulin, collection 'En Vue'
-  url: https://envues.universite-paris-saclay.fr/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/rencontres_r

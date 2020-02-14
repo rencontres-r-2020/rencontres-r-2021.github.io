@@ -1,0 +1,76 @@
+.speaker {
+    margin-top: 15px;
+}
+.speaker .speaker-photo {
+    width: 80%;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+.speaker .speaker-photo img {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 100%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+.speaker .speaker-name {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 1.25em;
+}
+.speaker .speaker-position {
+    text-align: center;
+    font-size: 0.85em;
+}
+.speaker .speaker-affiliation {
+    text-align: center;
+    padding-top: 0px;
+    font-style: italic;
+    font-size: 0.65em;
+}
+.speaker .speaker-bio {
+    /* display: none; */
+    font-size: 0.75em;
+    margin-top: 20px;
+}
+.speaker .speaker-social {
+    text-align: center;
+    padding: 5px;
+    font-size: 1em;
+}
+
+#speakers .speaker .speaker-photo {
+}
+
+.sponsor-logo-right {
+    float: right;
+}
+
+.sponsor-logo {
+    height: 150px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
+.photos {
+    margin-bottom: 15px;
+}
+
+.navbar-fixed-top {
+  background-color: #2165b6; /* Fallback color */
+  background-color: rgba(0,0,0,0.5);
+}
+
+.sponsor-category {
+  text-align: center;
+  background: silver;
+}
+
