@@ -15,7 +15,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="https://www.ncl.ac.uk/maths-physics/staff/profile/colingillespie.html#background">Colin Gillespie</a>
         </div>
         <div class="speaker-position">
-        Université de Newcastle 
+        <a href = "https://www.jumpingrivers.com/">Jumping Rivers</a>/<a href ="https://www.ncl.ac.uk/maths-physics/staff/profile/colingillespie.html#background">Newcastle Uni</a>
         </div>
         <div class="speaker-social">
           <a href="https://twitter.com/csgillespie"><i class="fa fa-twitter" aria-hidden="true"></i>{% include icon.html id="twitter" %}</a>
