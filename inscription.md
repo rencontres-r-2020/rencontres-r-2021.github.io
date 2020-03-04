@@ -14,4 +14,4 @@ Les inscriptions se font via [scienceconf](https://rr2020.sciencesconf.org/) aux
 - Tarif Normal: 220€
 - Tarif Étudiant: 150€
 
-L'inscription couvre les déjeuners des 16 et 17 juillets et le dîner de gala du 16 juillet.
+L'inscription couvre les déjeuners des 16 et 17 juillet, l'apéritif dînatoîre du 15 juillet et le dîner de gala du 16 juillet.
