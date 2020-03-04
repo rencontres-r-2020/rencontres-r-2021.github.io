@@ -11,7 +11,7 @@ Trois types de communication sont prévus durant ces rencontres :
 
 Un résumé d'une à deux pages est demandé pour ces trois types de communication, en plus du résumé court (quelques lignes au format texte, à entrer dans le formulaire de soumission).
 
-Les résumés doivent être soumis au **format PDF uniquement** en vous aidant d'un des canevas suivants: [RMarkdown](/assets/canevas/canevas_RR.Rmd) [LaTeX](/assets/canevas/canevas_RR.tex) [Word](/assets/canevas/canevas_RR.doc) [LibreOffice](/assets/canevas/canevas_RR.odt). 
+Les résumés doivent être soumis au **format PDF uniquement** en vous aidant d'un des canevas fournis dans l'[archive](/assets/canevas/modeles_RR.zip) (formats disponibles: RMarkdown, LaTeX, Word, LibreOffice). 
 
 La soumission se fait via [scienceconf](https://rr2020.sciencesconf.org/) jusqu'au **1er mai à minuit**.
 Vous devez avoir un compte sur le site [scienceconf](https://rr2020.sciencesconf.org/). Si ce n'est pas le cas, vous devrez en créer un.
