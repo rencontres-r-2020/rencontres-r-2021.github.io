@@ -1,5 +1,5 @@
 ---
-title: "S'inscrire"
+title: S'inscrire
 feature_image: "/assets/img/soumettre.jpg"
 excerpt: "Programme des Rencontres R 2020"
 ---
