@@ -75,7 +75,9 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#"><img src="../assets/img/committee/abichat.png" /></a>
         </div>
         <div class="committee-name">
-          <a href="#">Antoine Bichat</a>
+          <a href="abichat.github.io">Antoine Bichat</a>
+          <a href="https://twitter.com/_abichat"><i class="fa fa-twitter" aria-hidden="true"></i>{% include icon.html id="twitter" %}</a>
+          <a href="https://github.com/abichat"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
         </div>
         <div class="committee-affiliation">
         Enterome, Université d'Évry
