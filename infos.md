@@ -1,5 +1,5 @@
 ---
-title: Informations pratiques 
+title: Informations pratiques
 excerpt: "info"
 feature_image: "/assets/img/toit_agro.png"
 aside: true
@@ -7,9 +7,9 @@ aside: true
 
 ### Dates
 
-  * Conférence: du 15 juillet midi au 17 juillet en soirée 
-  * Inscription: à partir du premier trimestre début 2020
-  * Soumission: à partir du premier trimestre début 2020
+  * Conférence : du 15 juillet midi au 17 juillet en soirée
+  * Inscription : à partir du 4 mars (jusqu'au 17 mai à tarif réduit)
+  * Soumission : à partir du 4 mars
 
 ### Repas, événements sociaux
 
@@ -23,8 +23,3 @@ Végétariens bienvenus.
 
 La prochaine édition aura lieu du 15 au 17 juillet 2020 à AgroParisTech.
 {% include map.html id="1h-s6Upfh9luK3cKta2UKw23ULATWGknp" %}
-
-
-
-
-
