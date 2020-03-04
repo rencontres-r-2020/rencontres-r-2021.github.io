@@ -121,7 +121,8 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#"><img src="../assets/img/committee/mmariadassou.jpg" /></a>
         </div>
         <div class="committee-name">
-          <a href="#">Mahendra Mariadassou</a>
+          <a href="mahendra-mariadassou.github.io/">Mahendra Mariadassou</a>
+	  <a href="https://github.com/mahendra-mariadassou"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
         </div>
         <div class="committee-affiliation">
         INRAE, Jouy-en-Josas
