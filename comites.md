@@ -75,7 +75,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#"><img src="../assets/img/committee/abichat.png" /></a>
         </div>
         <div class="committee-name">
-          <a href="abichat.github.io">Antoine Bichat</a>
+          <a href="https://abichat.github.io">Antoine Bichat</a>
           <a href="https://twitter.com/_abichat"><i class="fa fa-twitter" aria-hidden="true"></i>{% include icon.html id="twitter" %}</a>
           <a href="https://github.com/abichat"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
         </div>
@@ -123,7 +123,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#"><img src="../assets/img/committee/mmariadassou.jpg" /></a>
         </div>
         <div class="committee-name">
-          <a href="mahendra-mariadassou.github.io/">Mahendra Mariadassou</a>
+          <a href="https://mahendra-mariadassou.github.io/">Mahendra Mariadassou</a>
 	  <a href="https://github.com/mahendra-mariadassou"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
         </div>
         <div class="committee-affiliation">
