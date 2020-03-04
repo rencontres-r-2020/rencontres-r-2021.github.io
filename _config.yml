@@ -109,6 +109,8 @@ navigation_header:
   url: /sponsors/
 - title: Soumission
   url: /soumettre/
+- title: Inscription
+  url: /inscription/
   
 navigation_footer:
 - title: Toit potager d'AgroParisTech &mdash; projet T4P
