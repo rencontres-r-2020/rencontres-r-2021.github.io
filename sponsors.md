@@ -15,6 +15,7 @@ excerpt: "Partenaires"
 ![DATAIA](../assets/logos/logo_dataia.png)
 ![INSEE](../assets/logos/logo_insee.png)
 ![dreamRs](../assets/logos/logo_dreamRs.png)
+![ArData](../assets/logos/logo_ardata.png)
 
 ### Sponsors Argent
 
