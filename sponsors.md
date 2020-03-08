@@ -21,7 +21,7 @@ excerpt: "Partenaires"
 
 ![AMIES](../assets/logos/logo-amies.jpg)![Label IA](../assets/logos/label_IA.jpg)
 ![Stat4Decision](../assets/logos/stat4decision.png)
-![datastorm](../assets/logos/logo_datastorm.png)
+![datastorm](../assets/logos/logo_datastorm.jpg)
 
 ### Sponsors Bronze
 
