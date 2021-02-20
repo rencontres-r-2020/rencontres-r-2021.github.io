@@ -81,17 +81,17 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: fr-FR # Set the site language
 title: "Rencontres R 2021" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/hex_rr2020.png" # Site logo, also used in jekyll-seo-tag
-description: "8ème éditions de Rencontres R - du 15 au 17 Juillet 2020 à AgroParisTech" # Site description and default description, also used in jekyll-seo-tag
-url: "paris2020.rencontres-r.fr" # Site url, also used in jekyll-seo-tag
+logo: "/assets/logos/hex_rr2021.png" # Site logo, also used in jekyll-seo-tag
+description: "8ème éditions de Rencontres R - 12 et 13 Juillet 2021 à AgroParisTech" # Site description and default description, also used in jekyll-seo-tag
+url: "paris2021.rencontres-r.fr" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/rencontres-r-2020/rencontres-r-2020.github.io"
+repo: "https://github.com/rencontres-r-2020/rencontres-r-2021.github.io"
 email: "rr2020@agroparistech.fr"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/hex_rr2020.png'
+  16: '/assets/logos/hex_rr2021.png'
 
 # 9. Site navigation
 navigation_header:
