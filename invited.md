@@ -43,6 +43,7 @@ feature_image: "/assets/img/toit_agro.png"
       </div>
     </div>
 
+<!--
     <div class="col-4">
 
       <div class="speaker">
@@ -61,9 +62,11 @@ feature_image: "/assets/img/toit_agro.png"
         </div>
       </div>
     </div>
+-->
 
 </div>
 
+<!--
   <div class="row">
     <div class="col-4">
       <div class="speaker">
@@ -82,7 +85,5 @@ feature_image: "/assets/img/toit_agro.png"
         </div>
       </div>
     </div>
-
-
-
-</div>
+  </div>
+-->
