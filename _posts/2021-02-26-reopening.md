@@ -6,14 +6,14 @@ categories:
 
 Chère communauté,
 
-Nous sommes heureux de vous annoncer que nous avons décider de
+Nous sommes heureux de vous annoncer que nous avons décidé de
 maintenir les rencontres R pour 2021,. Celles-ci auront lieux les 12
 et 13 juillet prochains.
 
 Nous ferons tout pour qu'une partie de ces rencontres ait lieu à
 AgroParisTech. Nous proposons donc aux personnes qui le souhaitent de
 s'inscrire pour une participation "présentielle", dans la limite des
-place disponible (100). La priorité sera donné aux orateurs/oratrices
+places disponibles (100). La priorité sera donnée aux orateurs/oratrices
 invités, aux membres des comités d'organisation et de programme, ainsi
 qu'aux participants ayant une soumission à présenter. Les autres
 participants suivront la conférence en visio.
