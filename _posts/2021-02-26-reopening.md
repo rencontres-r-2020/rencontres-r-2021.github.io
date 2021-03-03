@@ -7,20 +7,23 @@ categories:
 Chère communauté,
 
 Nous sommes heureux de vous annoncer que nous avons décidé de
-maintenir les rencontres R pour 2021,. Celles-ci auront lieux les 12
+maintenir les rencontres R pour 2021! Celles-ci auront lieux les 12
 et 13 juillet prochains.
 
 Nous ferons tout pour qu'une partie de ces rencontres ait lieu à
 AgroParisTech. Nous proposons donc aux personnes qui le souhaitent de
 s'inscrire pour une participation "présentielle", dans la limite des
-places disponibles (100). La priorité sera donnée aux orateurs/oratrices
-invités, aux membres des comités d'organisation et de programme, ainsi
-qu'aux participants ayant une soumission à présenter. Les autres
-participants suivront la conférence en visio.
+places disponibles (autour d'une centaine). La priorité sera donnée
+aux orateurs/oratrices invités, aux membres des comités d'organisation
+et de programme, ainsi qu'aux participants ayant une soumission à
+présenter. Les autres participants suivront la conférence en visio.
 
-En contrepartie, l'inscription sera entièrement gratuite.
+En contrepartie, _l'inscription est entièrement gratuite_.
 
-Les inscriptions et les soumissions seront très bientôt possibles.
+Vous pouvez dors et déjà vous [inscription](inscrire) et
+[soumission](soumettre) en vous rendant aux pages dédiées. On compte
+sur vous!
+
 
 
 

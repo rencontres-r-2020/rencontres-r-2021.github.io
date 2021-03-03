@@ -16,16 +16,16 @@ aside: true
 Nous souhaitons tout faire pour permettre qu'une partie de ces
 rencontres ait lieu à AgroParisTech. Nous proposons donc aux personnes
 qui le souhaitent de s'inscrire pour une participation "présentielle",
-dans la limite des place disponible (100). La priorité sera donné aux
+dans la limite des place disponible. La priorité sera donnée aux
 orateurs/oratrices invités, aux membres des comités d'organisation et
 de programme, ainsi qu'aux participants ayant une soumission à
 présenter. Les autres participants suivront la conférence en visio.
 
 ### Repas, événements sociaux
 
-Les repas du midi des 16 et 17 juillet seront offerts aux participants
-souhaitant et pouvant se rendre en présentiel à AgroParisTech (llimité
-à 100 personnes, si les conditions sanitaires le permettent).
+Les repas du midi des 12 et 13 juillet seront offerts aux participants
+souhaitant et pouvant se rendre en présentiel à AgroParisTech (limité
+à une centaine de personnes, si les conditions sanitaires le permettent).
 
 Végétariens bienvenus.
 

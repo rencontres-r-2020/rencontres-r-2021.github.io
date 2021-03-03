@@ -44,20 +44,6 @@ feature_image: "/assets/img/toit_agro.png"
     <div class="col-25">
       <div class="committee">
         <div class="committee-photo">
-          <a href="#"><img src="../assets/img/committee/woman.png" /></a>
-        </div>
-        <div class="committee-name">
-          <a href="#">Magali Berland</a>
-        </div>
-        <div class="committee-affiliation">
-        INRAE, Jouy-en-Josas
-        </div>
-      </div>
-    </div>
-
-    <div class="col-25">
-      <div class="committee">
-        <div class="committee-photo">
           <a href="#"><img src="../assets/img/committee/pbarbillon.jpg" /></a>
         </div>
         <div class="committee-name">

@@ -7,7 +7,7 @@ excerpt: "Programme des Rencontres R 2021"
 Trois types de communication sont prévus durant ces rencontres :
 - des présentations longues de 20 mn,
 - des présentations courtes de 6 mn,
-- des posters.
+- des posters (à confirmer selon les conditions sanitaires).
 
 Un résumé d'une à deux pages est demandé pour ces trois types de communication, en plus du résumé court (quelques lignes au format texte, à entrer dans le formulaire de soumission).
 
