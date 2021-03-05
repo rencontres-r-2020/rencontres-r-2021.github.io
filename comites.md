@@ -208,7 +208,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="#">Christophe Dervieux</a>
         </div>
         <div class="committee-affiliation">
-        RTE
+        RStudio
         </div>
       </div>
     </div>
