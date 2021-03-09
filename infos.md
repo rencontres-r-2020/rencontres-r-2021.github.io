@@ -16,8 +16,8 @@ aside: true
 Nous souhaitons tout faire pour permettre qu'une partie de ces
 rencontres ait lieu à AgroParisTech. Nous proposons donc aux personnes
 qui le souhaitent de s'inscrire pour une participation "présentielle",
-dans la limite des place disponible. La priorité sera donnée aux
-orateurs/oratrices invités, aux membres des comités d'organisation et
+dans la limite de 100 de places. La priorité sera donnée aux
+orateurs/oratrices invité(e)s, aux membres des comités d'organisation et
 de programme, ainsi qu'aux participants ayant une soumission à
 présenter. Les autres participants suivront la conférence en visio.
 
@@ -31,5 +31,5 @@ Végétariens bienvenus.
 
 ### Lieu et venue
 
-La prochaine édition aura lieu les 12 et 13 juillet 2021 à AgroParisTech.
+La prochaine édition aura lieu les 12 et 13 juillet 2021 à AgroParisTech (site Claude Bernard, 16 rue Claude Bernard, 75005 Paris).
 {% include map.html id="1h-s6Upfh9luK3cKta2UKw23ULATWGknp" %}
