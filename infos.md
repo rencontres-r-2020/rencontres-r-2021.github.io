@@ -33,4 +33,4 @@ Végétariens bienvenus.
 
 La prochaine édition aura lieu les 12 et 13 juillet 2021 à AgroParisTech (site Claude Bernard, 16 rue Claude Bernard, 75005 Paris).
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.9665457271058!2d2.3454634512505392!3d48.83977680986949!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671eb94af4b55%3A0xcdc898f6f304617b!2sAgroParisTech!5e0!3m2!1sfr!2sfr!4v1615308826428!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+[![agro_map](https://user-images.githubusercontent.com/2323508/110508499-566f0980-8101-11eb-89be-35fe52bb951a.png)](https://goo.gl/maps/DbaRMt65ZH6pXQg89)
