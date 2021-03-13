@@ -20,8 +20,8 @@ présenter. Les autres participants suivront la conférence en visio.
 
 En contrepartie, _l'inscription est entièrement gratuite_.
 
-Vous pouvez dors et déjà vous [inscrire](inscription) et
-[soumettre](soumission) en vous rendant aux pages dédiées. On compte
+Vous pouvez dors et déjà vous [/inscrire](inscription) et
+[/soumettre](soumission) en vous rendant aux pages dédiées. On compte
 sur vous!
 
 
