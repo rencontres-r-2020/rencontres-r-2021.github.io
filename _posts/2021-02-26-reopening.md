@@ -20,9 +20,10 @@ présenter. Les autres participants suivront la conférence en visio.
 
 En contrepartie, _l'inscription est entièrement gratuite_.
 
-Vous pouvez dors et déjà vous [/inscrire](inscription) et
-[/soumettre](soumission) en vous rendant aux pages dédiées. On compte
-sur vous!
+Vous pouvez dors et déjà vous
+[inscrire](https://paris2021.rencontresr.fr/inscription/) et
+[soumettre](https://paris2021.rencontresr.fr/soumettre/) en vous
+rendant aux pages dédiées. On compte sur vous!
 
 
 
