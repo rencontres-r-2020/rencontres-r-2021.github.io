@@ -2,6 +2,11 @@
 title: Soumettre 
 feature_image: "/assets/img/soumettre.jpg"
 excerpt: "Programme des Rencontres R 2021"
+navigation_footer:
+- title: Photo par artiste à trouver
+  url: https://envues.universite-paris-saclay.fr/
+- title: Template site web basé sur Alembic
+  url: https://github.com/daviddarnes/alembic
 ---
 
 Trois types de communication sont prévus durant ces rencontres :
