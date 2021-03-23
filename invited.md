@@ -85,7 +85,7 @@ feature_image: "/assets/img/toit_agro.png"
         </div>
       </div>
     </div>
-<!--
+
     <div class="col-4">
       <div class="speaker">
         <div class="speaker-photo">
@@ -103,6 +103,6 @@ feature_image: "/assets/img/toit_agro.png"
         </div>
       </div>
     </div>
--->
+
 </div>
 
