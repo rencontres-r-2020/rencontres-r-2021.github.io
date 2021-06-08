@@ -6,4 +6,6 @@ excerpt: "Programme"
 feature_image: "/assets/img/programme.jpg"
 ---
 
-À venir.
+
+Bientôt...
+
