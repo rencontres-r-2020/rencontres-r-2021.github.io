@@ -8,7 +8,7 @@ aside: true
 ### Dates
 
   * Conférence : les 12 et 13 juillet 
-  * Inscription : jusqu'au **5 juilet**
+  * Inscription : jusqu'au **5 juillet**
   * Soumission : jusqu'au **1er mai**
 
 ### Co-mode
