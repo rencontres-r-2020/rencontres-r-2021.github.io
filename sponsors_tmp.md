@@ -6,18 +6,31 @@ excerpt: "Partenaires"
 
 ### Partenaires
 
+Pour l'accueil gracieux :
+<center>
 <a href="http://www.agroparistech.fr/"><img src="../assets/logos/logo_agro.png" alt="AgroParisTech" width="500"></a>
-nous accueille gracieusement
+</center>
+
+Pour la structure associative :
+<center>
 <a href="https://www.sfds.asso.fr/"><img src="../assets/logos/logo_sfds.png" alt="SfDS" width="500"></a>
-nous fournit une structure associative
+</center>
 
 ### Sponsors Or
 
-![LMH](../assets/logos/logo_lmh.png)
-![DATAIA](../assets/logos/logo_dataia.png)
-![INSEE](../assets/logos/logo_insee.png)
-![dreamRs](../assets/logos/logo_dreamRs.png)
-![ArData](../assets/logos/logo_ardata.png)
+<center>
+<img src="../assets/logos/logo_lmh.png" alt="LMH" width="500"><img src="../assets/logos/logo_dataia.png" alt="DATAIA" width="500">
+</center>
+
+
+<center>
+<img src="../assets/logos/logo_insee.png" alt="INSEE" width="500"><img src="../assets/logos/logo_dreamRs.png" alt="dreamRs" width="500">
+</center>
+
+
+<center>
+<img src="../assets/logos/logo_ardata.png" alt="ArData" width="500">
+</center>
 
 ### Sponsors Argent
 

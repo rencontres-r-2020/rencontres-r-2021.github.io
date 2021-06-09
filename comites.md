@@ -66,7 +66,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="https://github.com/abichat"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
         </div>
         <div class="committee-affiliation">
-        Enterome, Université d'Évry
+        Servier
         </div>
       </div>
     </div>
