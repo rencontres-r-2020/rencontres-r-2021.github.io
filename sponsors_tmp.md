@@ -35,12 +35,12 @@ Pour la structure associative :
 ### Sponsors Argent
 
 <center>
-<img src="../assets/logos/logo_amies.png" alt="AMIES" width="300">
+<img src="../assets/logos/logo_amies.jpg" alt="AMIES" width="300">
 <img src="../assets/logos/stat4decision.png" alt="Stat4Decision" width="300">
 </center>
 
 <center>
-<img src="../assets/logos/label_IA.png" alt="Label IA" width="300">
+<img src="../assets/logos/label_IA.jpg" alt="Label IA" width="300">
 <img src="../assets/logos/logo_datastorm.png" alt="datastorm" width="300">
 </center>
 
@@ -48,7 +48,7 @@ Pour la structure associative :
 
 <center>
 <img src="../assets/logos/THINKR-LOGO.png" alt="ThinkR" width="200">
-<img src="../assets/logos/logo_GDR.png" alt="GdR S&S" width="200">
+<img src="../assets/logos/logo_GDR.jpg" alt="GdR S&S" width="200">
 </center>
 
 
