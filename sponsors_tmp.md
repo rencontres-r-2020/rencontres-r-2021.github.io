@@ -8,39 +8,47 @@ excerpt: "Partenaires"
 
 Pour l'accueil gracieux :
 <center>
-<a href="http://www.agroparistech.fr/"><img src="../assets/logos/logo_agro.png" alt="AgroParisTech" width="500"></a>
+<a href="http://www.agroparistech.fr/"><img src="../assets/logos/logo_agro.png" alt="AgroParisTech" width="400"></a>
 </center>
 
 Pour la structure associative :
 <center>
-<a href="https://www.sfds.asso.fr/"><img src="../assets/logos/logo_sfds.png" alt="SfDS" width="500"></a>
+<a href="https://www.sfds.asso.fr/"><img src="../assets/logos/logo_sfds.png" alt="SfDS" width="400"></a>
 </center>
 
 ### Sponsors Or
 
 <center>
-<img src="../assets/logos/logo_lmh.png" alt="LMH" width="500"><img src="../assets/logos/logo_dataia.png" alt="DATAIA" width="500">
+<img src="../assets/logos/logo_lmh.png" alt="LMH" width="400"><img src="../assets/logos/logo_dataia.png" alt="DATAIA" width="400">
 </center>
 
 
 <center>
-<img src="../assets/logos/logo_insee.png" alt="INSEE" width="500"><img src="../assets/logos/logo_dreamRs.png" alt="dreamRs" width="500">
+<img src="../assets/logos/logo_insee.png" alt="INSEE" width="400"><img src="../assets/logos/logo_dreamRs.png" alt="dreamRs" width="400">
 </center>
 
 
 <center>
-<img src="../assets/logos/logo_ardata.png" alt="ArData" width="500">
+<img src="../assets/logos/logo_ardata.png" alt="ArData" width="400">
 </center>
 
 ### Sponsors Argent
 
-![AMIES](../assets/logos/logo-amies.jpg)
-![Label IA](../assets/logos/label_IA.jpg)
-![Stat4Decision](../assets/logos/stat4decision.png)
-![datastorm](../assets/logos/logo_datastorm.jpg)
+<center>
+<img src="../assets/logos/logo_amies.png" alt="AMIES" width="300">
+<img src="../assets/logos/stat4decision.png" alt="Stat4Decision" width="300">
+</center>
+
+<center>
+<img src="../assets/logos/label_IA.png" alt="Label IA" width="300">
+<img src="../assets/logos/logo_datastorm.png" alt="datastorm" width="300">
+</center>
 
 ### Sponsors Bronze
 
-![Think R](../assets/logos/THINKR-LOGO.png)
-![GdR S&S](../assets/logos/logo_GDR.jpg)
+<center>
+<img src="../assets/logos/THINKR-LOGO.png" alt="ThinkR" width="200">
+<img src="../assets/logos/logo_GDR.png" alt="GdR S&S" width="200">
+</center>
+
 

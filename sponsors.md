@@ -19,7 +19,7 @@ excerpt: "Partenaires"
 
 ### Sponsors Argent
 
-![AMIES](../assets/logos/logo-amies.jpg)![Label IA](../assets/logos/label_IA.jpg)
+![AMIES](../assets/logos/logo_amies.jpg)![Label IA](../assets/logos/label_IA.jpg)
 ![Stat4Decision](../assets/logos/stat4decision.png)
 ![datastorm](../assets/logos/logo_datastorm.jpg)
 
