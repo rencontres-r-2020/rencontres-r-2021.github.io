@@ -7,5 +7,5 @@ feature_image: "/assets/img/programme.jpg"
 ---
 
 
-Bientôt...
+Le programme est disponible sur [SciencesConf](https://rr2021.sciencesconf.org/program).
 

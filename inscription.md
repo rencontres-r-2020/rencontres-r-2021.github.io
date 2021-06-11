@@ -5,7 +5,7 @@ excerpt: "Inscription aux Rencontres R 2021"
 ---
 
 Les inscriptions se font via
-[sciencesconf](https://rr2021.sciencesconf.org/). Vous êtes invités à
+[SciencesConf](https://rr2021.sciencesconf.org/). Vous êtes invités à
 indiquer votre mode de participation favori (en présence ou à
 distance). La priorité sera donnée aux membres des comités et aux
 orateurs, puis aux premiers inscrits.
