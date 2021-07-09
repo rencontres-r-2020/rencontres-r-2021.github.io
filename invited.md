@@ -95,11 +95,39 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="https://scholar.harvard.edu/cchoirat/home">Christine Choirat</a>
         </div>
         <div class="speaker-position">
-         Swiss Data Science Center
+         Swiss Federal Statistical office & Swiss Data Science Center
         </div>
         <div class="speaker-social">
           <a href="https://twitter.com/cchoirat"><i class="fa fa-twitter" aria-hidden="true"></i>{% include icon.html id="twitter" %}</a>
           <a href="https://github.com/cchoirat"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-4">
+      <div class="speaker">
+        <div class="speaker-photo">
+          <a href="https://datascience.ch/team_member/gavin-lee-data-science-engineer/"><img src="../assets/img/speakers/lgavin.jpeg"></a>
+        </div>
+        <div class="speaker-name">
+          <a href="https://datascience.ch/team_member/gavin-lee-data-science-engineer/">Lee Gavin</a>
+        </div>
+        <div class="speaker-position">
+         Swiss Federal Statistical office & Swiss Data Science Center
+        </div>
+      </div>
+    </div>
+
+    <div class="col-4">
+      <div class="speaker">
+        <div class="speaker-photo">
+          <a href="https://datascience.ch/team_member/sun-tao/"><img src="../assets/img/speakers/tsun.jpeg"></a>
+        </div>
+        <div class="speaker-name">
+          <a href="https://datascience.ch/team_member/sun-tao/">Tao Sun</a>
+        </div>
+        <div class="speaker-position">
+         Swiss Federal Statistical office & Swiss Data Science Center
         </div>
       </div>
     </div>
