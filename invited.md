@@ -72,7 +72,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="https://africa-r.org/author/ahmadou-dicko/">Ahmadou Dicko</a>
         </div>
         <div class="speaker-position">
-         Director and principal analyst STATS4D
+         <a href="https://stats4d.com/">STATS4D</a>
         </div>
         <div class="speaker-social">
           <a href="https://twitter.com/dickoah"><i class="fa fa-twitter" aria-hidden="true"></i>{% include icon.html id="twitter" %}</a>
