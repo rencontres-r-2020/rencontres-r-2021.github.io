@@ -66,10 +66,10 @@ feature_image: "/assets/img/toit_agro.png"
     <div class="col-3">
       <div class="speaker">
         <div class="speaker-photo">
-          <a href="https://africa-r.org/author/ahmadou-dicko/"><img src="../assets/img/speakers/ahmadou.jpg"></a>
+          <a href="https://www.ahmadoudicko.com/"><img src="../assets/img/speakers/ahmadou.jpg"></a>
         </div>
         <div class="speaker-name">
-          <a href="https://africa-r.org/author/ahmadou-dicko/">Ahmadou Dicko</a>
+          <a href="https://www.ahmadoudicko.com/">Ahmadou Dicko</a>
         </div>
         <div class="speaker-position">
          <a href="https://stats4d.com/">STATS4D</a>
