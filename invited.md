@@ -67,24 +67,6 @@ feature_image: "/assets/img/toit_agro.png"
 </div>
 
 <div class="row">
-    
-    <div class="col-4">
-      <div class="speaker">
-        <div class="speaker-photo">
-          <a href="https://divadnojnarg.github.io/"><img src="../assets/img/speakers/dgranjon.jpeg"></a>
-        </div>
-        <div class="speaker-name">
-          <a href="https://divadnojnarg.github.io/">David Granjon</a>
-        </div>
-        <div class="speaker-position">
-         PhD in mathematical physiology
-        </div>
-        <div class="speaker-social">
-          <a href="https://twitter.com/divadnojnarg"><i class="fa fa-twitter" aria-hidden="true"></i>{% include icon.html id="twitter" %}</a>
-          <a href="https://github.com/DivadNojnarg"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
-        </div>
-      </div>
-    </div>
 
     <div class="col-4">
       <div class="speaker">
@@ -128,6 +110,46 @@ feature_image: "/assets/img/toit_agro.png"
         </div>
         <div class="speaker-position">
          Swiss Data Science Center
+        </div>
+      </div>
+    </div>
+
+</div>
+
+<div class="row">
+    
+    <div class="col-4">
+      <div class="speaker">
+        <div class="speaker-photo">
+          <a href="https://divadnojnarg.github.io/"><img src="../assets/img/speakers/dgranjon.jpeg"></a>
+        </div>
+        <div class="speaker-name">
+          <a href="https://divadnojnarg.github.io/">David Granjon</a>
+        </div>
+        <div class="speaker-position">
+         PhD in mathematical physiology
+        </div>
+        <div class="speaker-social">
+          <a href="https://twitter.com/divadnojnarg"><i class="fa fa-twitter" aria-hidden="true"></i>{% include icon.html id="twitter" %}</a>
+          <a href="https://github.com/DivadNojnarg"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-4">
+      <div class="speaker">
+        <div class="speaker-photo">
+          <a href="https://africa-r.org/author/ahmadou-dicko/"><img src="../assets/img/speakers/ahmadou.jpg"></a>
+        </div>
+        <div class="speaker-name">
+          <a href="https://africa-r.org/author/ahmadou-dicko/">Ahmadou Dicko</a>
+        </div>
+        <div class="speaker-position">
+         Director and principal analyst STATS4D
+        </div>
+        <div class="speaker-social">
+          <a href="https://twitter.com/dickoah"><i class="fa fa-twitter" aria-hidden="true"></i>{% include icon.html id="twitter" %}</a>
+          <a href="https://github.com/dickoa"><i class="fa fa-github" aria-hidden="true"></i>{% include icon.html id="github" %}</a>
         </div>
       </div>
     </div>
