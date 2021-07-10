@@ -1,5 +1,5 @@
 ---
-title: Orateurs Confirmés 
+title: Orateurs invités
 excerpt: "Orateurs"
 feature_image: "/assets/img/toit_agro.png"
 ---
@@ -113,7 +113,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="https://datascience.ch/team_member/gavin-lee-data-science-engineer/">Lee Gavin</a>
         </div>
         <div class="speaker-position">
-         Swiss Federal Statistical office & Swiss Data Science Center
+         Swiss Data Science Center
         </div>
       </div>
     </div>
@@ -127,7 +127,7 @@ feature_image: "/assets/img/toit_agro.png"
           <a href="https://datascience.ch/team_member/sun-tao/">Tao Sun</a>
         </div>
         <div class="speaker-position">
-         Swiss Federal Statistical office & Swiss Data Science Center
+         Swiss Data Science Center
         </div>
       </div>
     </div>
