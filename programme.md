@@ -7,7 +7,7 @@ feature_image: "/assets/img/programme.jpg"
 ---
 
 
-Le  programme  détaillé  et   le  contribution  sont  disponibles  sur
+Le  programme  détaillé  et   les  contributions  sont  disponibles  sur
 [SciencesConf](https://rr2021.sciencesconf.org/program).
 
 ## Lundi 
